@@ -2,4 +2,5 @@
 VAR repository
 
 # Contact
-iker.esnaola at tekniker.es
+izaskun.fernandez at tekniker.es
+cristina.aceta at tekniker.es
